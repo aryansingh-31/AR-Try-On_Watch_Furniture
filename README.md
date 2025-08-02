@@ -1,12 +1,12 @@
 
-# Hi, I'm Aryan! 👋
+# Hi, I'm Aryan!
 
 
 ## 🚀 About This Repository - 
 This was the Minor Project for my 3rd Semester of Engineering.
 
 
-# AR based Watch and Furniture Try On
+# AR-based Watch and Furniture Try-On
 
 This project aims to bridge the gap between marker-based watch try-on and marker-less interior design by developing an integrated Augmented Reality (AR) application. The goal is to provide users with a seamless and user-friendly experience for accurately trying on watches and visualizing interior design changes in their actual living spaces.
 
@@ -53,7 +53,4 @@ To run this project, you will need to add the following environment variables to
 
 [MIT](https://github.com/adarsh-naik-2004/AR-Try-On_Watch_Furniture/blob/main/LICENSE.md)
 
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-manjunath-naik-a2004m/)
 
